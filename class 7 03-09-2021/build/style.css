@@ -1,0 +1,50 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color: aliceblue;
+    margin: 0px;
+}
+
+/* .para{
+    background-color: red;
+}
+
+#headOne{
+    color: brown;
+}
+
+#paraOne{
+    background-color: pink;
+} */
+/* p{
+    background-color: royalblue;
+}
+p>a{
+    background-color: red;
+} */
+
+/* p{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: pink;
+} */
+
+
+/* p a{
+    background-color: royalblue;
+} */
+
+/* h4+p{
+    background-color: royalblue;
+} */
+
+/* h4~p{
+    background-color: royalblue;
+} */
+
+p{
+    background-color: orange;
+
+}

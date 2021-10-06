@@ -1,0 +1,52 @@
+#mainDiv{
+    width: 95%;
+    margin: 0px auto;
+
+}
+
+#topNavBar{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.topbar ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.topbar ul li{
+margin-left: 20px;
+color: gray;
+font-size:1.5vw ;
+}
+
+.topbar ul li:hover{
+    color: #14a800;
+    cursor: pointer;
+    }
+
+#UpworkLink{
+    color: #14a800;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+#sUpBtn{
+    height: 40px;
+    width: 80px;
+    background-color: #14a800;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    margin-top: -10px;
+}
+
+
+#srchIp{
+    border-radius:20px ;
+    padding: 5px;
+    border:1px solid #65735b ;
+}

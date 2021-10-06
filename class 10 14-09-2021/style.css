@@ -1,0 +1,61 @@
+/* div{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+}
+
+p{
+    width: 50%;
+    height: 50%;
+    background-color: aqua;
+} */
+
+/* p{
+    background-color: red;
+height: 25px;
+overflow: scroll;
+    max-width: 600px;
+    min-width: 400px;
+} */
+
+/* 
+p{
+    border-width: 5px 12px 5px 12px;
+    border-style: solid;
+    border-color: red orange blue green;
+
+        border:5px dotted red;
+        padding: 20px 10px 20px 10px ;
+}
+#main{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    margin: auto;
+} */
+
+/* ul{
+    display: inline;
+
+}
+
+li{
+    background-color: red;
+    display: inline;
+} */
+/* p {color: red;} */
+/* p.ex4 {display: inline-block;} */
+
+li{
+    display: inline;
+}
+
+
+.apple{
+    visibility: hidden;
+}
+/* li{
+    font-size: 20px;
+    color:red;
+    display: inline-block;
+} */

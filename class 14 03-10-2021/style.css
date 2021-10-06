@@ -1,0 +1,30 @@
+/* body{
+    background-color: red;
+}
+@media only screen and (max-width : 500px){
+    body{
+        background-color: yellow;
+    }
+} */
+#main{
+    display: flex;
+    width:100%;
+    flex-wrap: wrap;
+    /* flex-direction: column-reverse; */
+    /* justify-content: flex-end; */
+}
+#main > div{
+    border: 2px solid black;
+}
+.div1{
+    /* flex: 1 */
+    width:800px
+}
+.div2{
+    /* flex: 2 */
+    width:500px
+}
+.div3{
+    /* flex: 1 */
+    width:500px
+}

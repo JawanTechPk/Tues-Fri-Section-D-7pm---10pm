@@ -1,0 +1,53 @@
+#fdDiv{
+    display: flex;
+}
+
+#fdDiv div{
+    flex:1
+}
+
+#jnHead{
+    color:#14a800;
+    font-size: 5vw;
+}
+
+#fdPara{
+    color: gray;
+    font-size: 2vw;
+}
+
+.fdBtn{
+    width: 120px;
+    height: 40px;
+    border-radius:20px ;
+}
+
+.fdTl{
+    background-color: #14a800;
+    color: white;
+}
+
+.fdWk{
+    border:1px solid #14a800;
+    color: #14a800;
+    background-color: white;  
+}
+
+
+#trPara{
+color: gray;
+font-size: 1.8vw;
+margin-top: 50px;
+}
+
+#trImgDiv{
+    display: flex;
+}
+
+.trImg{
+    width: 80px;
+    height: 35px;
+    margin-left: 10px;
+}
+
+
