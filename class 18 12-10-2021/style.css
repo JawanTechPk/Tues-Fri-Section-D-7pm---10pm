@@ -1,0 +1,42 @@
+.mainDiv{
+    background-color: red;
+    height: 100vh;
+    display: flex;
+}
+
+.divChild1{
+    background-color: aqua;
+    height: 100vh;
+}
+.divChild2{
+    background-color: orange;
+    height: 100vh;
+}
+.divChild3{
+    background-color: rebeccapurple;
+    height: 100vh;
+}
+
+/* @media (min-width:300px) {
+    .mainDiv{
+        background-color: pink;
+        height: 100vh;
+    }
+}
+
+
+@media (min-width:1200px) {
+    .mainDiv{
+        background-color: orange;
+        height: 100vh;
+    }
+} */
+
+
+
+/* @media (min-width:1200px) {
+    .mainDiv{
+        background-color: orange;
+        height: 100vh;
+    }
+} */
